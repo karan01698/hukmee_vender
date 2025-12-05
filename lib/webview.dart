@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Hukmee_Vender',
-      home: WebViewScreen(url: 'https://hukmee-vendor.vercel.app/'),
+      home: WebViewScreen(url: 'https://vendor.hukmee.in/'),
     );
   }
 }
